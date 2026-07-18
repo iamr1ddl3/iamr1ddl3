@@ -1,7 +1,5 @@
 # Ravi Vaghela
 
-**Lead AI Engineer** who shipped a production agentic CI/CD remediation system (5 months, team of 4, Azure OpenAI + LangChain + Semantic Kernel, 6 pipelines × 100+ downstream jobs).
-**Sr. Cybersecurity Engineer @ KPIT** — automotive security (ECU, gateway, infotainment), ISO 21434, bug bounty. The security layer is not an afterthought.
+**AI Engineer** who shipped a production agentic CI/CD remediation system (5 months, team of 4, Azure OpenAI + LangChain + Semantic Kernel, 6 pipelines × 100+ downstream jobs).
 
-Building at the intersection of **agentic ops automation + AI security tooling**. Shipping with Claude Code · Cursor · MCP daily.
-
+Building at the intersection of **agentic ops automation + AI systems**. Shipping with Claude Code · Cursor · MCP daily.
